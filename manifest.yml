@@ -1,0 +1,7 @@
+---
+applications:
+- name: Struts2Sample1
+  memory: 1G
+  instances: 1
+  host: Struts2Sample1
+  disk_quota: 1G
